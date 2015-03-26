@@ -1,0 +1,10 @@
+baseurl: /albany
+permalink: pretty
+markdown: kramdown
+paginate: 5
+repo: albany
+github_org: maptime
+maptime:
+  chapter: Maptime Albany, NY
+  twitter: MaptimeALB
+  #disqus: YOUR DISQUS USERNAME
