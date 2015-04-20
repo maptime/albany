@@ -99,6 +99,10 @@
   var rsvp = document.getElementById('rsvpdate');
   var date,formatted,link;
   ''
+    date = '2015,4,21';
+    formatted = 'Tuesday, Apr 21 2015';
+    link = 'http://www.meetup.com/Maptime-Albany/events/221586913/';
+  ''
 
   if (date && new Date().getTime() <= new Date(date).getTime() + (24 * 60 * 60 * 1000)) {
     rsvp.innerHTML = '<h3>' + formatted + '</h3>' +

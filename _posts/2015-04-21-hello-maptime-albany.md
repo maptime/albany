@@ -19,4 +19,4 @@ We'll have demos from Spatial Networks, Avail labs, and Mapbox to showcase some 
 
 We'll leave the floor open.
 
-**We'll be meeting at the University at Albany - room TBA.**
+**We'll be meeting at the University at Albany - room AS 123.**
